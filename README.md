@@ -14,7 +14,7 @@ This project demonstrates a basic RSA encryption algorithm and simulates a timin
 - [Expected Output](#expected-output)
 - [Running the Project](#running-the-project)
 - [Example Output](#example-output)
-- [Disclaimer](#disclaimer)
+
 
 ## Introduction
 This project aims to demonstrate how cryptographic vulnerabilities can arise through side channels, such as timing information. Here, we use Python to:
