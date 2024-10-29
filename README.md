@@ -66,4 +66,4 @@ To simulate a timing vulnerability, we introduce an artificial timing delay in t
 ## Running the Project
 To run the project, use the following command:
 ```bash
-python rsa_timing_attack_simulation.py
+python rsa.py
