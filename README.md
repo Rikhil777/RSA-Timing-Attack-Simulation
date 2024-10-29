@@ -11,6 +11,7 @@ This project demonstrates a basic RSA encryption algorithm and simulates a timin
   - [Flawed Decryption Function](#flawed-decryption-function)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
+- [Expected Output](#expected-output)
 - [Running the Project](#running-the-project)
 - [Example Output](#example-output)
 - [Disclaimer](#disclaimer)
@@ -78,3 +79,15 @@ In real-world timing attacks, attackers analyze these time differences to infer 
 To run the project, use the following command:
 ```bash
 python rsa.py
+```
+
+
+## Example Output
+
+<img src="./good1.png" alt="Simulation.png"> 
+<br>
+<p>Straight line refers to good security practice.</p>
+
+<img src="./bad1.png" alt="Simulation.png">
+<br>
+<p>Spikes represents bad security practice.</p>
