@@ -85,9 +85,9 @@ python rsa.py
 ## Example Output
 
 <img src="./good1.png" height="500" width="600" alt="Simulation.png"> 
-<br>
 <p>Straight line refers to good security practice.</p>
+<br>
 
 <img src="./bad1.png" height="500" width="600" alt="Simulation.png">
-<br>
 <p>Spikes represents bad security practice.</p>
+<br>
