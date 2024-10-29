@@ -63,6 +63,17 @@ To simulate a timing vulnerability, we introduce an artificial timing delay in t
     pip install sympy matplotlib
     ```
 
+
+## Expected Output
+
+<p>
+If the plot is showing spikes or variations in decryption time instead of a flat line. These variations correspond to the conditions triggered by specific bits of the private key.
+In real-world timing attacks, attackers analyze these time differences to infer parts of the private key, making this a clear example of a "bad security practice."
+
+</p> 
+
+
+
 ## Running the Project
 To run the project, use the following command:
 ```bash
